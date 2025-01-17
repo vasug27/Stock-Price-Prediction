@@ -8,11 +8,10 @@ This project implements a **Recurrent Neural Network (RNN) with Long Short-Term 
 - Achieved **92% prediction accuracy** by fine-tuning hyperparameters.
 - Visualized stock price trends using **Matplotlib and Seaborn**.
 
----
 
 ## Features
-✅ Uses **RNN (LSTM)** for time-series forecasting.  
-✅ Handles **missing values and feature scaling** for optimized performance.  
-✅ Trains on **Google stock market dataset** for realistic predictions.  
-✅ Implements **data visualization** for stock trends analysis.  
-✅ **Reduces RMSE by 15%** after hyperparameter tuning.  
+- Uses **RNN (LSTM)** for time-series forecasting.
+- Handles **missing values and feature scaling** for optimized performance.
+- Trains on **Google stock market dataset** for realistic predictions.
+- Implements **data visualization** for stock trends analysis.
+- **Reduces RMSE by 15%** after hyperparameter tuning.  
